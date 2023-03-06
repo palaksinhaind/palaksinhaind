@@ -4,11 +4,6 @@
 
    [![PALAK](https://github-stats-alpha.vercel.app/api?username=palaksinhaind "PALAK")](https://github-stats-alpha.vercel.app/api?username=PALAK "PALAK")
 
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=palaksinhaind&langs_count=8&theme=onedark" />
-</p>
-
  
 <h4 align="center"><b>MY GITHUB STATS -❤️</b></h4>
  
@@ -28,7 +23,10 @@
 
 # MOST USED LANGUAGE
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=palaksinhaind&theme=midnight-purple)
+<p>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=palaksinhaind&langs_count=8&theme=onedark" />
+</p>
 
 ### About Me-
 
