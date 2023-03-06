@@ -3,14 +3,17 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Palak
 
    [![PALAK](https://github-stats-alpha.vercel.app/api?username=palaksinhaind "PALAK")](https://github-stats-alpha.vercel.app/api?username=PALAK "PALAK")
-
+<br>
+<br>
  
 <h4 align="center"><b>MY GITHUB STATS -❤️</b></h4>
- 
+ <br>
+ <br>
 <a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palaksinhaind&theme=black-ice" alt="thespeedx" />
 </a>
-
+<br>
+<br>
 ![PALAK Git Stats](https://github-readme-stats.vercel.app/api?username=palaksinhaind&include_all_commits=true&count_private=true&theme=blue-green)
 
 
@@ -23,10 +26,10 @@
 
 # MOST USED LANGUAGE
 
-<p>
+<a>
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=palaksinhaind&langs_count=8&theme=onedark" />
-</p>
+</a>
 
 ### About Me-
 
